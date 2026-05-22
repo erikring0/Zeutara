@@ -1,0 +1,43 @@
+{
+  "lead_id": "07-sam-rivera-flexbroker",
+  "company": {
+    "name": "FlexBroker",
+    "domain": "flexbroker.com",
+    "linkedin": "https://linkedin.com/company/flexbroker",
+    "crunchbase": "https://crunchbase.com/organization/flexbroker",
+    "hq_city": "Chicago, IL",
+    "hq_country": "US",
+    "industry_tags": ["B2B SaaS", "Logistics"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 5000000,
+      "last_round_date": "2025-09-25",
+      "investors": ["Greycroft"]
+    },
+    "headcount": 16,
+    "headcount_30d_change": 3,
+    "estimated_arr_usd": 1200000,
+    "has_vp_sales": true,
+    "has_retained_agency_6mo": false,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "Sam Rivera",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/samrivera",
+      "background": "ex-Flexport Engineering Lead 5yrs",
+      "bio_text": "Brokerage automation. Hired our VP Sales last year, now scaling the team.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [
+      {"title": "Senior Account Executive", "posted": "2026-05-05"}
+    ],
+    "recent_gtm_hires_60d": [],
+    "public_statements_30d": [],
+    "github_commit_activity_90d": "active"
+  }
+}

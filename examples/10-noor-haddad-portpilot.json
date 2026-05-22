@@ -1,0 +1,53 @@
+{
+  "lead_id": "10-noor-haddad-portpilot",
+  "company": {
+    "name": "PortPilot",
+    "domain": "portpilot.co",
+    "linkedin": "https://linkedin.com/company/portpilot",
+    "crunchbase": "https://crunchbase.com/organization/portpilot",
+    "hq_city": "Seattle, WA",
+    "hq_country": "US",
+    "industry_tags": ["B2B SaaS", "Logistics", "Maritime"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 4200000,
+      "last_round_date": "2025-08-28",
+      "investors": ["Founders Co-op"]
+    },
+    "headcount": 11,
+    "headcount_30d_change": 1,
+    "estimated_arr_usd": 310000,
+    "has_vp_sales": false,
+    "has_retained_agency_6mo": false,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "Noor Haddad",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/noorhaddad",
+      "github": "https://github.com/nhaddad",
+      "background": "ex-Microsoft Senior Software Engineer 5yrs (Azure), ex-AWS SDE 2yrs",
+      "bio_text": "Container terminal operations software. Career engineer — this is my first time building a company.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [
+      {"title": "Founding GTM Hire", "posted": "2026-05-10"}
+    ],
+    "recent_gtm_hires_60d": [
+      {"name": "Liam O'Brien", "title": "Head of Customer Success", "started": "2026-04-01"}
+    ],
+    "public_statements_30d": [
+      {
+        "source": "twitter",
+        "url": "https://twitter.com/noorhaddad/status/123",
+        "date": "2026-05-12",
+        "transcript_excerpt": "Took my first sales call where the prospect knew more about our product than I did. Realized we need a system, not more meetings."
+      }
+    ],
+    "github_commit_activity_90d": "active"
+  }
+}

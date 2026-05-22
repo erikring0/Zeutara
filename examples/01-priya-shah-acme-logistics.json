@@ -1,0 +1,51 @@
+{
+  "lead_id": "01-priya-shah-acme-logistics",
+  "company": {
+    "name": "Acme Logistics",
+    "domain": "acme.io",
+    "linkedin": "https://linkedin.com/company/acme-logistics",
+    "crunchbase": "https://crunchbase.com/organization/acme-logistics",
+    "hq_city": "New York, NY",
+    "hq_country": "US",
+    "industry_tags": ["B2B SaaS", "Logistics", "Freight Tech"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 4500000,
+      "last_round_date": "2025-09-12",
+      "investors": ["Index Ventures", "BoxGroup"]
+    },
+    "headcount": 11,
+    "headcount_30d_change": 1,
+    "estimated_arr_usd": 380000,
+    "has_vp_sales": false,
+    "has_retained_agency_6mo": false,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "Priya Shah",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/priyashah",
+      "github": "https://github.com/priyashah",
+      "background": "ex-Google Senior Software Engineer 6yrs (Search Infrastructure), ex-Stripe Product Manager 3yrs (Connect platform), BS+MS Computer Science MIT",
+      "bio_text": "Building the operating system for mid-market freight forwarders. Previously shipped infrastructure that touched 1B+ users at Google. We're hiring engineers who care about logistics that doesn't suck.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [
+      {"title": "Head of Growth", "posted": "2026-04-22", "url": "https://linkedin.com/jobs/123"}
+    ],
+    "recent_gtm_hires_60d": [],
+    "public_statements_30d": [
+      {
+        "source": "podcast",
+        "url": "https://example.com/podcast/freight-tech-pod-ep-42",
+        "date": "2026-05-08",
+        "transcript_excerpt": "Honestly the network deals dried up around month 6. We're hitting a wall on outbound — I've sent maybe 200 emails myself and the response rate is brutal. I'm an engineer, I shouldn't be the one writing cold emails."
+      }
+    ],
+    "github_commit_activity_90d": "active"
+  }
+}

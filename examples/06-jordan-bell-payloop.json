@@ -1,0 +1,43 @@
+{
+  "lead_id": "06-jordan-bell-payloop",
+  "company": {
+    "name": "Payloop",
+    "domain": "payloop.co",
+    "linkedin": "https://linkedin.com/company/payloop",
+    "crunchbase": "https://crunchbase.com/organization/payloop",
+    "hq_city": "Los Angeles, CA",
+    "hq_country": "US",
+    "industry_tags": ["B2B SaaS", "Logistics", "Fintech"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 3800000,
+      "last_round_date": "2025-08-30",
+      "investors": ["Bond", "Mucker Capital"]
+    },
+    "headcount": 12,
+    "headcount_30d_change": 0,
+    "estimated_arr_usd": 410000,
+    "has_vp_sales": false,
+    "has_retained_agency_6mo": false,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "Jordan Bell",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/jordanbell",
+      "background": "ex-Convoy Senior Software Engineer 3yrs (Pricing team), ex-Uber Freight engineer 2yrs",
+      "bio_text": "Quick-pay financing for small carriers. Engineer by trade; doing all the sales calls myself right now and it's not scaling.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [
+      {"title": "Head of Growth", "posted": "2026-02-10", "url": "https://linkedin.com/jobs/901"}
+    ],
+    "recent_gtm_hires_60d": [],
+    "public_statements_30d": [],
+    "github_commit_activity_90d": "moderate"
+  }
+}

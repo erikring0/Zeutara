@@ -1,0 +1,44 @@
+{
+  "lead_id": "02-marcus-wei-stellar-freight",
+  "company": {
+    "name": "Stellar Freight",
+    "domain": "stellarfreight.com",
+    "linkedin": "https://linkedin.com/company/stellar-freight",
+    "crunchbase": "https://crunchbase.com/organization/stellar-freight",
+    "hq_city": "San Francisco, CA",
+    "hq_country": "US",
+    "industry_tags": ["B2B SaaS", "Logistics", "AI"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 6000000,
+      "last_round_date": "2025-12-03",
+      "investors": ["Founders Fund", "South Park Commons"]
+    },
+    "headcount": 14,
+    "headcount_30d_change": 2,
+    "estimated_arr_usd": 720000,
+    "has_vp_sales": false,
+    "has_retained_agency_6mo": false,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "Marcus Wei",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/marcuswei",
+      "github": "https://github.com/marcuswei",
+      "background": "ex-OpenAI Research Engineer 2yrs, ex-Anthropic 1yr, BS Computer Science Stanford",
+      "bio_text": "We use LLMs to automate broker-to-shipper communication. Spent the last 4 years building ML systems; now applying it to a $400B industry that runs on email and phone calls.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [
+      {"title": "Founding Account Executive", "posted": "2026-05-01", "url": "https://linkedin.com/jobs/456"}
+    ],
+    "recent_gtm_hires_60d": [],
+    "public_statements_30d": [],
+    "github_commit_activity_90d": "active"
+  }
+}

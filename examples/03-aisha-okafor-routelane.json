@@ -1,0 +1,41 @@
+{
+  "lead_id": "03-aisha-okafor-routelane",
+  "company": {
+    "name": "Routelane",
+    "domain": "routelane.io",
+    "linkedin": "https://linkedin.com/company/routelane",
+    "crunchbase": "https://crunchbase.com/organization/routelane",
+    "hq_city": "Toronto, ON",
+    "hq_country": "CA",
+    "industry_tags": ["B2B SaaS", "Logistics", "Last-mile"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 3200000,
+      "last_round_date": "2025-08-15",
+      "investors": ["Inovia", "Y Combinator"]
+    },
+    "headcount": 9,
+    "headcount_30d_change": 0,
+    "estimated_arr_usd": 220000,
+    "has_vp_sales": false,
+    "has_retained_agency_6mo": false,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "Aisha Okafor",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/aishaokafor",
+      "background": "ex-Shopify Senior Product Manager 4yrs (Shipping team), ex-Wealthsimple PM 2yrs, BSc Engineering Waterloo",
+      "bio_text": "Last-mile logistics for Canadian retail. PM background, not a sales person — figuring out GTM as we go.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [],
+    "recent_gtm_hires_60d": [],
+    "public_statements_30d": [],
+    "github_commit_activity_90d": "moderate"
+  }
+}

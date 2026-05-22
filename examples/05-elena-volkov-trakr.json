@@ -1,0 +1,41 @@
+{
+  "lead_id": "05-elena-volkov-trakr",
+  "company": {
+    "name": "Trakr",
+    "domain": "trakr.app",
+    "linkedin": "https://linkedin.com/company/trakr",
+    "crunchbase": "https://crunchbase.com/organization/trakr",
+    "hq_city": "Austin, TX",
+    "hq_country": "US",
+    "industry_tags": ["B2B SaaS", "Logistics"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 2500000,
+      "last_round_date": "2025-11-20",
+      "investors": ["Active Capital"]
+    },
+    "headcount": 7,
+    "headcount_30d_change": 0,
+    "estimated_arr_usd": 95000,
+    "has_vp_sales": false,
+    "has_retained_agency_6mo": false,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "Elena Volkov",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/elenavolkov",
+      "background": "ex-Palantir Forward Deployed Engineer 4yrs, ex-Google APM 2yrs, BS+MS Stanford CS",
+      "bio_text": "Real-time freight visibility for 3PLs. Building because my dad runs a trucking company and the software he uses is from 2003.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [],
+    "recent_gtm_hires_60d": [],
+    "public_statements_30d": [],
+    "github_commit_activity_90d": "moderate"
+  }
+}

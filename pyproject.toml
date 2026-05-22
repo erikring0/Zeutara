@@ -1,0 +1,24 @@
+[project]
+name = "zeutara-engine"
+version = "0.1.0"
+description = "Founder-Fit Decision Engine — load-bearing component of Zeutara's BD pipeline"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.40.0",
+    "openai>=1.50.0",
+    "pydantic>=2.7.0",
+    "httpx>=0.27.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[project.scripts]
+zeutara-engine = "zeutara_engine.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/zeutara_engine"]

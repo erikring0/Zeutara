@@ -1,0 +1,51 @@
+{
+  "lead_id": "04-david-park-cargosense",
+  "company": {
+    "name": "CargoSense",
+    "domain": "cargosense.ai",
+    "linkedin": "https://linkedin.com/company/cargosense",
+    "crunchbase": "https://crunchbase.com/organization/cargosense",
+    "hq_city": "Boston, MA",
+    "hq_country": "US",
+    "industry_tags": ["B2B SaaS", "Logistics", "IoT"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 5500000,
+      "last_round_date": "2025-10-01",
+      "investors": ["Lerer Hippeau", "Susa Ventures"]
+    },
+    "headcount": 13,
+    "headcount_30d_change": 1,
+    "estimated_arr_usd": 540000,
+    "has_vp_sales": false,
+    "has_retained_agency_6mo": false,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "David Park",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/davidpark",
+      "github": "https://github.com/dpark",
+      "background": "ex-Tesla Senior Firmware Engineer 5yrs (Autopilot), PhD Robotics Carnegie Mellon",
+      "bio_text": "IoT sensors + ML models for cold-chain freight. We've shipped 14k devices and onboarded 22 design partners. Selling has consumed my last 3 months — need to fix that before our Series A.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [
+      {"title": "Founding GTM Lead", "posted": "2026-04-09", "url": "https://linkedin.com/jobs/789"}
+    ],
+    "recent_gtm_hires_60d": [],
+    "public_statements_30d": [
+      {
+        "source": "linkedin_post",
+        "url": "https://linkedin.com/posts/davidpark-12345",
+        "date": "2026-05-15",
+        "transcript_excerpt": "Hot take: founder-led sales is necessary at $0 ARR and harmful at $1M ARR. We need to build a real pipeline system before we hire AEs, not after."
+      }
+    ],
+    "github_commit_activity_90d": "active"
+  }
+}

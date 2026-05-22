@@ -1,0 +1,43 @@
+{
+  "lead_id": "08-hudson-grant-ledgerlane",
+  "company": {
+    "name": "LedgerLane",
+    "domain": "ledgerlane.io",
+    "linkedin": "https://linkedin.com/company/ledgerlane",
+    "crunchbase": "https://crunchbase.com/organization/ledgerlane",
+    "hq_city": "Brooklyn, NY",
+    "hq_country": "US",
+    "industry_tags": ["B2B SaaS", "Logistics", "Fintech"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 4000000,
+      "last_round_date": "2025-10-18",
+      "investors": ["Pear VC"]
+    },
+    "headcount": 10,
+    "headcount_30d_change": 1,
+    "estimated_arr_usd": 280000,
+    "has_vp_sales": false,
+    "has_retained_agency_6mo": true,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "Hudson Grant",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/hudsongrant",
+      "background": "ex-Apple Engineer 4yrs, ex-Robinhood Software Engineer 2yrs",
+      "bio_text": "Accounting & cashflow tools for freight brokers. Engineering background.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [
+      {"title": "Head of Growth", "posted": "2026-04-30"}
+    ],
+    "recent_gtm_hires_60d": [],
+    "public_statements_30d": [],
+    "github_commit_activity_90d": "active"
+  }
+}

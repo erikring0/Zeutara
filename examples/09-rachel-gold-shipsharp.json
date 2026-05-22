@@ -1,0 +1,45 @@
+{
+  "lead_id": "09-rachel-gold-shipsharp",
+  "company": {
+    "name": "ShipSharp",
+    "domain": "shipsharp.io",
+    "linkedin": "https://linkedin.com/company/shipsharp",
+    "crunchbase": "https://crunchbase.com/organization/shipsharp",
+    "hq_city": "New York, NY",
+    "hq_country": "US",
+    "industry_tags": ["B2B SaaS", "Logistics"],
+    "funding": {
+      "last_round": "Seed",
+      "last_round_amount_usd": 5500000,
+      "last_round_date": "2025-09-05",
+      "investors": ["Forerunner", "Bessemer"]
+    },
+    "headcount": 18,
+    "headcount_30d_change": 2,
+    "estimated_arr_usd": 950000,
+    "has_vp_sales": false,
+    "has_retained_agency_6mo": false,
+    "is_pre_product": false,
+    "is_bootstrapped": false
+  },
+  "founders": [
+    {
+      "name": "Rachel Gold",
+      "title": "CEO & Co-founder",
+      "linkedin": "https://linkedin.com/in/rachelgold",
+      "background": "ex-Salesforce Senior Account Executive 4yrs (Mid-Market), ex-Oracle AE 3yrs, BA Wharton",
+      "bio_text": "Selling is what I do. Built ShipSharp because I closed $40M+ at Salesforce and saw what mid-market shippers actually need. We hit our pipeline numbers because I personally close every deal $25k+.",
+      "is_ceo": true
+    }
+  ],
+  "signals": {
+    "open_gtm_roles": [
+      {"title": "Sales Development Representative", "posted": "2026-05-03"}
+    ],
+    "recent_gtm_hires_60d": [
+      {"name": "Tom Lee", "title": "Senior Account Executive", "started": "2026-04-15"}
+    ],
+    "public_statements_30d": [],
+    "github_commit_activity_90d": "inactive"
+  }
+}
