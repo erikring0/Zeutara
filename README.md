@@ -3,8 +3,7 @@
 **The load-bearing component of Zeutara's outbound BD pipeline.**
 A 3-stage scoring engine that takes a `LeadProfile` (firmographic + signal data) and
 emits a `Decision` (fit score, archetype, active triggers, personalization vector,
-recommended next step). Built as the prototype deliverable for the Zeutara Analyst
-Screening take-home.
+recommended next step).
 
 > **Why this is the load-bearing component, not the CRM or the email tool:**
 > Calibration data accumulates here. Every reply, every booked call, every closed-won
